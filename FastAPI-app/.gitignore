@@ -103,7 +103,6 @@ celerybeat.pid
 
 # Environments
 Venv/
-Dash-Venv/
 unlim_venv/
 
 .env
